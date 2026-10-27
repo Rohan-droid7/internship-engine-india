@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-10-27T11:51:39Z</updated>
+  <updated>2026-10-27T12:43:34Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160949</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949"/>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160868</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA)</summary>
+    <summary>Summer 2027 · Software · Pune City, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160948</id>
@@ -23,20 +23,20 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160868</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868"/>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160949</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pune City, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885</id>
-    <title>Marvell: Intern, Software Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885"/>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
+    <title>Marvell: Software Engineer Intern - Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
+    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Intern_2604252</id>
@@ -47,20 +47,12 @@
     <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, MATLAB</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237</id>
-    <title>Marvell: Software Engineer Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237"/>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
+    <title>Marvell: Software Validation Intern - Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
-    <title>Marvell: Intern, Software QA Engineer - Bachelor's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python</summary>
+    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624</id>
@@ -71,20 +63,28 @@
     <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Rust, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
-    <title>Marvell: Software Validation Intern - Master's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870"/>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
-    <title>Marvell: Software Engineer Intern - Master's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868"/>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
+    <title>Marvell: Intern, Software QA Engineer - Bachelor's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250"/>
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237</id>
+    <title>Marvell: Software Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237"/>
+    <updated>2026-10-27T11:51:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Rust</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766</id>
@@ -101,14 +101,6 @@
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Mumbai · Python, LLMs, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Chennai/AI---Intern_REQ2026080851</id>
-    <title>Valeo: AI - Intern</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chennai · ~₹20k–30k/mo (6–9 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:scopely:5448999008</id>

@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-27T11:51:39Z",
+ "generated_at": "2026-10-27T12:43:34Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 18,
+ "count": 17,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160949",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
    "company": "Honeywell",
-   "title": "Intern Bachelors AI",
+   "title": "Intern Bachelors Software Eng",
    "season": "Summer 2027",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949",
+   "category": "Software",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
    "posted_at": "2026-10-27",
    "first_seen_at": "2026-10-27T11:51:39Z",
    "salary": null,
@@ -19,7 +19,11 @@
    "estimated_stipend": "₹30k–45k/mo",
    "estimated_ctc": "9–14 LPA",
    "pay_source": "AmbitionBox",
-   "skills": [],
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
    "source": "oracle"
   },
   {
@@ -46,14 +50,14 @@
    "source": "oracle"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160949",
    "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
+   "title": "Intern Bachelors AI",
    "season": "Summer 2027",
    "season_inferred": true,
-   "category": "Software",
-   "location": "Pune City, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949",
    "posted_at": "2026-10-27",
    "first_seen_at": "2026-10-27T11:51:39Z",
    "salary": null,
@@ -61,11 +65,7 @@
    "estimated_stipend": "₹30k–45k/mo",
    "estimated_ctc": "9–14 LPA",
    "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
+   "skills": [],
    "source": "oracle"
   },
   {
@@ -134,27 +134,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer - Bachelor's Degree",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹45k–65k/mo",
-   "estimated_ctc": "18–24 LPA",
-   "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [
-    "Python"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
    "company": "Marvell",
    "title": "Intern, Software Engineer - Bachelor's Degree",
@@ -178,41 +157,24 @@
    "source": "workday"
   },
   {
-   "id": "workday:valeo:/job/Chennai/AI---Intern_REQ2026080851",
-   "company": "Valeo",
-   "title": "AI - Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chennai",
-   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹20k–30k/mo",
-   "estimated_ctc": "6–9 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
    "company": "Marvell",
-   "title": "Software Validation Intern - Master's Degree",
+   "title": "Intern, Software QA Engineer - Bachelor's Degree",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
-   "posted_at": "2026-10-22T00:00:00Z",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "posted_at": "2026-10-23T00:00:00Z",
    "first_seen_at": "2026-10-27T11:51:39Z",
    "salary": null,
    "stipend": null,
    "estimated_stipend": "₹45k–65k/mo",
    "estimated_ctc": "18–24 LPA",
    "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [],
+   "skills": [
+    "Python"
+   ],
    "source": "workday"
   },
   {
@@ -235,6 +197,25 @@
     "Python",
     "Linux"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "company": "Marvell",
+   "title": "Software Validation Intern - Master's Degree",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-27T11:51:39Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹45k–65k/mo",
+   "estimated_ctc": "18–24 LPA",
+   "pay_source": "AmbitionBox / Glassdoor",
+   "skills": [],
    "source": "workday"
   },
   {
