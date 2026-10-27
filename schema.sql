@@ -56,6 +56,11 @@ CREATE TABLE IF NOT EXISTS jobs (
     enriched_at     TIMESTAMPTZ,
     is_open         BOOLEAN NOT NULL DEFAULT TRUE
 );
+-- Ensure newer compensation columns exist on already-created tables
+ALTER TABLE jobs ADD COLUMN IF NOT EXISTS estimated_stipend TEXT;
+ALTER TABLE jobs ADD COLUMN IF NOT EXISTS estimated_ctc TEXT;
+ALTER TABLE jobs ADD COLUMN IF NOT EXISTS pay_source TEXT;
+
 CREATE INDEX IF NOT EXISTS idx_jobs_open       ON jobs (is_open) WHERE is_open;
 CREATE INDEX IF NOT EXISTS idx_jobs_season     ON jobs (season);
 CREATE INDEX IF NOT EXISTS idx_jobs_company    ON jobs (company_key);
@@ -157,9 +162,10 @@ CREATE OR REPLACE FUNCTION unsubscribe_email(token UUID)
 RETURNS BOOLEAN
 LANGUAGE plpgsql
 SECURITY DEFINER
+SET search_path = ''
 AS $$
 BEGIN
-    DELETE FROM email_subscribers WHERE unsub_token = token;
+    DELETE FROM public.email_subscribers WHERE unsub_token = token;
     RETURN FOUND;
 END;
 $$;
@@ -208,7 +214,9 @@ END $$;
 -- ============================================================
 
 -- Analytics: how long do companies keep postings open?
-CREATE OR REPLACE VIEW company_posting_stats AS
+CREATE OR REPLACE VIEW company_posting_stats
+WITH (security_invoker = true)
+AS
 SELECT
     company_key,
     company,
@@ -221,12 +229,16 @@ FROM jobs
 GROUP BY company_key, company;
 
 -- Dashboard: all open roles with every field
-CREATE OR REPLACE VIEW open_internships AS
+CREATE OR REPLACE VIEW open_internships
+WITH (security_invoker = true)
+AS
 SELECT
     j.id, j.company, j.title, j.location, j.url,
     j.season, j.season_inferred, j.category, j.region,
-    j.stipend, j.salary, j.degree, j.experience, j.batch,
+    j.stipend, j.salary, j.estimated_stipend, j.estimated_ctc, j.pay_source,
+    j.degree, j.experience, j.batch,
     j.skills, j.posted_at, j.first_seen_at, j.enriched_at
 FROM jobs j
 WHERE j.is_open
 ORDER BY j.first_seen_at DESC;
+

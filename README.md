@@ -147,8 +147,8 @@ _Engine (last run): 5,432 companies across 18 ATS platforms · 99% fetch success
 
 The engine currently extracts live data from the following platforms:
 - **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, Breezy, Recruitee, Rippling, Eightfold, Oracle
-- **Direct Enterprise & Custom Scrapers:** Amazon (India Jobs), Custom Playwright Scrapers (Flipkart, Swiggy, Razorpay, CRED, InMobi, Rapido, Blinkit, Groww, CARS24, Urban Company, Delhivery)
-- **Indian Job Portals & Aggregators:** Internshala, Naukri, Wellfound
+
+
 
 ## Contributing
 
