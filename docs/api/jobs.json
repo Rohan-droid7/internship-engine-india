@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T12:43:34Z",
+ "generated_at": "2026-10-27T15:48:32Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 17,
+ "count": 16,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
@@ -47,25 +47,6 @@
     "SQL",
     "Tableau"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160949",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
    "source": "oracle"
   },
   {
