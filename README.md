@@ -1,33 +1,39 @@
 # Indian Tech Internships
 
-[![CI](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Finternship-engine-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/internship-engine-india/feed.xml)
+[![CI](https://github.com/Rohan-droid7/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7/internship-engine-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7.github.io%2Finternship-engine-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7.github.io/internship-engine-india/feed.xml)
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**9 open roles · 1 new this week · 5,432 companies tracked · updated Oct 14, 2026 at 12:47 UTC**
+**15 open roles · 13 new this week · 5,448 companies tracked · updated Oct 27, 2026 at 11:51 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
-**Live:** [dashboard](https://rohan-droid7341.github.io/internship-engine-india/) · [RSS feed](https://rohan-droid7341.github.io/internship-engine-india/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7341.github.io/internship-engine-india/api/jobs.json)
+**Live:** [dashboard](https://rohan-droid7.github.io/internship-engine-india/) · [RSS feed](https://rohan-droid7.github.io/internship-engine-india/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7.github.io/internship-engine-india/api/jobs.json)
 
-**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7341.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7341%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
+**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027  (9 open)
+## Summer 2027  (15 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Scopely | Intern - QA Engineer - Royal Lounge Casino ~ 🆕 | Software | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
+| Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | ~₹30k–45k/mo (9–14 LPA) | Pune, Maharashtra, India | Oct 27, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949) |
+| Honeywell | Intern Bachelors Data Science ~ 🆕 | Data & ML/AI | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Pune, Maharashtra, India | Oct 27, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948) |
+| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868) |
+| Marvell | Software Intern ~ 🆕 | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Oct 26, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252) |
+| Marvell | Intern, Software Engineer ~ 🆕 | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
+| Marvell | Software Engineer Intern ~ 🆕 | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237) |
+| Marvell | Intern, Software QA Engineer - Bachelor's Degree ~ 🆕 | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250) |
+| Marvell | Intern, Software Engineer - Bachelor's Degree ~ 🆕 | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624) |
+| Valeo | AI - Intern ~ 🆕 | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA)<br>B.Tech/BS | Chennai | Oct 23, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851) |
+| Revvity | AI Applications DevOps Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Oct 22, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766) |
+| Revvity | Full-Stack AI Engineering Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Oct 22, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768) |
+| Scopely | Intern - QA Engineer - Royal Lounge Casino ~ | Software | B.Tech/BS | IN - Bangalore, India | Oct 13, 2026 | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008) |
 | HackerRank | Software Development Engineer Intern | Software | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 01, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) |
-| AbhiBus | AI-Native Full Stack Developer Intern ~ | Data & ML/AI | ~₹20k–30k/mo (6–10 LPA)<br>B.Tech/BS | Hyderabad, TS, India | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/abhibus/744000152892832) |
-| Marvell | AI Intern ~ | Data & ML/AI | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
-| Thoughtworks | Software Procurement Intern ~ | Software | ~₹25k–35k/mo (9–13 LPA)<br>0-1 Yr<br>B.Tech/BS | Gurgaon, India; Pune, India | Sep 28, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
-| Marvell | Intern, Software Engineer ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Sep 24, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879) |
-| Altera Corporation | AI Automation Intern ~ | Data & ML/AI | ~₹40k–60k/mo (16–22 LPA) | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (8 of 9)._
+_~ = the title doesn't state a year; bucketed here from its posting date (14 of 15)._
 
 ## What this is
 
@@ -37,8 +43,8 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 - **📅 [Drop Radar](#drop-radar)** - the only list that shows **what's coming**: each marquee company's typical opening window, then confirmed with the real drop date the moment the engine catches it live.
 - **Real posted dates on every role** - pulled from each job portal itself, so newest-first actually means newest.
-- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://rohan-droid7341.github.io/internship-engine-india/), included in the CSV and API.
-- **Alerts your way** - [email digests](https://rohan-droid7341.github.io/internship-engine-india/#subscribe), [RSS](https://rohan-droid7341.github.io/internship-engine-india/feed.xml), or Discord - plus a [live dashboard](https://rohan-droid7341.github.io/internship-engine-india/) with search and custom filters.
+- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://rohan-droid7.github.io/internship-engine-india/), included in the CSV and API.
+- **Alerts your way** - [email digests](https://rohan-droid7.github.io/internship-engine-india/#subscribe), [RSS](https://rohan-droid7.github.io/internship-engine-india/feed.xml), or Discord - plus a [live dashboard](https://rohan-droid7.github.io/internship-engine-india/) with search and custom filters.
 - **An engine, not a spreadsheet** - polled every hour across multiple ATS platforms with full source in this repo.
 
 ## Scope
@@ -95,34 +101,30 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec | ⏳ waiting |
-| Ramp | ~Dec | ~Dec | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~35d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~35d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~35d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 
-_65 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_65 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 14 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 10 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-27 |
+| AbhiBus | AI-Native Full Stack Developer Intern | Summer 2027 | 2026-10-27 |
+| Altera Corporation | AI Automation Intern | Summer 2027 | 2026-10-27 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-27 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-14 |
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-14 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
 | Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
 | Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
-| Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
-| Valeo | Intern - Software | Summer 2027 | 2026-10-08 |
-| Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
-| GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
-| Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
-| GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-05 |
-| Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-04 |
-| Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
 
 </details>
 
@@ -141,14 +143,13 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,432 companies across 18 ATS platforms · 99% fetch success · completed in 301.4s · median detection latency 674 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 91% fetch success · completed in 599.6s · median detection latency 804 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
 The engine currently extracts live data from the following platforms:
 - **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Workday, Breezy, Recruitee, Rippling, Eightfold, Oracle
-
-
+- **Direct Enterprise APIs:** Amazon (India Jobs)
 
 ## Contributing
 
