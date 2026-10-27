@@ -1,8 +1,6 @@
 name: Audit inferred cycles
 
 on:
-  schedule:
-    - cron: "0 9 * * 4"     # Thursdays 09:00 UTC
   workflow_dispatch:
 
 permissions:

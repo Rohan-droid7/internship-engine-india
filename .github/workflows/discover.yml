@@ -1,8 +1,6 @@
 name: Discover companies
 
 on:
-  schedule:
-    - cron: "30 8 * * *"    # daily 08:30 UTC
   workflow_dispatch:
 
 permissions:
