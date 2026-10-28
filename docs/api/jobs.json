@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T15:50:27Z",
+ "generated_at": "2026-10-28T18:45:01Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 17,
+ "count": 16,
  "jobs": [
   {
    "id": "greenhouse:hackerrank:8281055",
@@ -23,29 +23,6 @@
     "PyTorch"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune City, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",

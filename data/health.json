@@ -14,6 +14,11 @@
     "last_attempt_at": "2026-10-27T11:51:39Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/atomicsemi?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
+  "ashby:beaconsoftware": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-28T18:45:01Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
+  },
   "ashby:candidate": {
     "consecutive_failures": 39,
     "last_attempt_at": "2026-10-27T11:51:39Z",
@@ -1724,11 +1729,6 @@
     "last_attempt_at": "2026-10-28T15:50:27Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
-  "workable:nu-quantum": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-28T03:47:26Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/nu-quantum/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
-  },
   "workable:oceancomm": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-10-28T15:50:27Z",
@@ -1788,11 +1788,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-10-27T11:51:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/praytell/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
-  },
-  "workable:premium-merchant-funding-3": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-28T15:50:27Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/premium-merchant-funding-3/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "workable:prevail": {
     "consecutive_failures": 7,
@@ -2375,8 +2370,8 @@
     "last_error": "KeyError: 'wd'"
   },
   "workday:ncino": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-28T15:50:27Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-28T18:45:01Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://ncino.wd5.myworkdayjobs.com/wday/cxs/ncino/nCinoCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "workday:netflix": {
