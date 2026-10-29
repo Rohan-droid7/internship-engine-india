@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-10-29T03:44:48Z</updated>
+  <updated>2026-10-29T06:49:44Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
     <title>HackerRank: AI Researcher Intern</title>
@@ -13,14 +13,6 @@
     <updated>2026-10-28T06:45:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Onsite in Bangalore · ~₹40k–60k/mo (16–22 LPA) · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160948</id>
-    <title>Honeywell: Intern Bachelors Data Science</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
@@ -77,22 +69,6 @@
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766</id>
-    <title>Revvity: AI Applications DevOps Intern</title>
-    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Mumbai · LLMs, AWS, GCP, Azure, Docker</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768</id>
-    <title>Revvity: Full-Stack AI Engineering Intern</title>
-    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Mumbai · Python, LLMs, Docker</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:scopely:5448999008</id>
