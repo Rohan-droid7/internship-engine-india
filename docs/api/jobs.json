@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-10-29T15:53:48Z",
+ "generated_at": "2026-10-29T18:48:14Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 14,
+ "count": 15,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161355",
+   "company": "Honeywell",
+   "title": "Intern Masters AI",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161355",
+   "posted_at": "2026-10-29",
+   "first_seen_at": "2026-10-29T18:48:14Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161165",
    "company": "Honeywell",
