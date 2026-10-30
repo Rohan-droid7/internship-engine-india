@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-10-30T15:50:02Z</updated>
+  <updated>2026-10-30T18:45:32Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ecyq.fa.em2.oraclecloud.com:7950</id>
     <title>DNV: Data Science Intern</title>
@@ -45,14 +45,6 @@
     <updated>2026-10-30T09:49:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723</id>
-    <title>Philips: Intern – Data Science and AI Engineering</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723"/>
-    <updated>2026-10-30T09:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹30k–45k/mo (10–15 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wexinc:/job/India---Remote/Software-Development-Trainee_R22753</id>

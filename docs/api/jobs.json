@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T15:50:03Z",
+ "generated_at": "2026-10-30T18:45:32Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 20,
+ "count": 19,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -119,25 +119,6 @@
     "C++"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
-   "company": "Philips",
-   "title": "Intern – Data Science and AI Engineering",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
-   "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T09:49:58Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "10–15 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:wexinc:/job/India---Remote/Software-Development-Trainee_R22753",
