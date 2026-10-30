@@ -5,7 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-10-30T06:50:10Z</updated>
+  <updated>2026-10-30T09:49:58Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161061</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061"/>
+    <updated>2026-10-30T09:49:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723</id>
+    <title>Philips: Intern – Data Science and AI Engineering</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723"/>
+    <updated>2026-10-30T09:49:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹30k–45k/mo (10–15 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
+    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
+    <updated>2026-10-30T09:49:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bangalore · ~₹30k–45k/mo (10–15 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/India---Remote/Software-Development-Trainee_R22753</id>
+    <title>Wex: Software Development Trainee</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Remote/Software-Development-Trainee_R22753"/>
+    <updated>2026-10-30T09:49:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · India - Remote · Python, Java, SQL, LLMs, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161165</id>
     <title>Honeywell: Intern Bachelors AI</title>
