@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**17 open roles · 15 new this week · 5,448 companies tracked · updated Oct 30, 2026 at 12:53 UTC**
+**17 open roles · 15 new this week · 5,448 companies tracked · updated Oct 30, 2026 at 15:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,9 +18,9 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | DNV | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
-| Wex | Software Engineer Intern ~ 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720) |
 | Wex | Software Development Trainee-1 ~ 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-1_R22754) |
 | Wex | Software Development Trainee-2 ~ 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-2_R22755) |
+| Wex | Software Engineer Intern ~ 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Pune, Maharashtra, India | Oct 30, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061) |
 | Philips | Intern – Data Science and AI Engineering ~ 🆕 | Data & ML/AI | ~₹30k–45k/mo (10–15 LPA)<br>B.Tech/BS | Bangalore | Oct 30, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723) |
 | Wex | Software Development Trainee ~ 🆕 | Software | B.Tech/BS | India - Remote | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Remote/Software-Development-Trainee_R22753) |
@@ -148,7 +148,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 91% fetch success · completed in 635.2s · median detection latency 771 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 100% fetch success · completed in 363.6s · median detection latency 769 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 

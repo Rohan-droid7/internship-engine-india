@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:53:20Z",
+ "generated_at": "2026-10-30T15:50:03Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
  "count": 20,
  "jobs": [
@@ -23,25 +23,6 @@
     "Python"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720",
-   "company": "Wex",
-   "title": "Software Engineer Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Bangalore",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720",
-   "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T12:53:20Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:wexinc:/job/India---Bangalore/Software-Development-Trainee-1_R22754",
@@ -95,6 +76,25 @@
     "GCP",
     "Azure"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720",
+   "company": "Wex",
+   "title": "Software Engineer Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Bangalore",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "first_seen_at": "2026-10-30T12:53:20Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [],
    "source": "workday"
   },
   {
