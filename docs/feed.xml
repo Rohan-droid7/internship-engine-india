@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-10-31T15:34:25Z</updated>
+  <updated>2026-10-31T18:40:14Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ecyq.fa.em2.oraclecloud.com:7950</id>
     <title>DNV: Data Science Intern</title>
@@ -13,38 +13,6 @@
     <updated>2026-10-30T12:53:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Pune, India · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Bangalore/Software-Development-Trainee-1_R22754</id>
-    <title>Wex: Software Development Trainee-1</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-1_R22754"/>
-    <updated>2026-10-30T12:53:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · India - Bangalore · Python, Java, SQL, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Bangalore/Software-Development-Trainee-2_R22755</id>
-    <title>Wex: Software Development Trainee-2</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Development-Trainee-2_R22755"/>
-    <updated>2026-10-30T12:53:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · India - Bangalore · Python, Java, SQL, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720</id>
-    <title>Wex: Software Engineer Intern</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720"/>
-    <updated>2026-10-30T12:53:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · India - Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Remote/Software-Development-Trainee_R22753</id>
-    <title>Wex: Software Development Trainee</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Remote/Software-Development-Trainee_R22753"/>
-    <updated>2026-10-30T09:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · India - Remote · Python, Java, SQL, LLMs, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
