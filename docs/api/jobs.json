@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T09:38:18Z",
+ "generated_at": "2026-10-31T12:43:39Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 19,
+ "count": 18,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -96,29 +96,6 @@
    "pay_source": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
-   "posted_at": "2026-10-30",
-   "first_seen_at": "2026-10-30T09:49:58Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:wexinc:/job/India---Remote/Software-Development-Trainee_R22753",
