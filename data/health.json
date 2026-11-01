@@ -1655,13 +1655,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/affinity/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "rippling:citylogix": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-01T00:54:10Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-01T03:50:11Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/citylogix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "rippling:cozey-internships": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-01T00:54:10Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-01T03:50:11Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/cozey-internships/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "rippling:elevationcapital": {
@@ -1703,6 +1703,11 @@
     "consecutive_failures": 13,
     "last_attempt_at": "2026-10-30T12:53:20Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "rippling:sibros-technologies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-01T03:50:11Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sibros-technologies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "uber:uber": {
     "consecutive_failures": 18,
@@ -1748,6 +1753,11 @@
     "consecutive_failures": 1,
     "last_attempt_at": "2026-07-23T23:21:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "workable:new-flyer": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-01T03:50:11Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:nu-quantum": {
     "consecutive_failures": 5,
@@ -2244,25 +2254,10 @@
     "last_attempt_at": "2026-10-30T12:53:20Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs'\nFor more information check: https://developer.mozilla.org"
   },
-  "workday:conagrabrands": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T15:34:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/Careers_US/jobs'\nFor more information check: https://developer.mozilla"
-  },
   "workday:condenast": {
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T12:53:20Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/CondeCareers/jobs'\nFor more information check: https://developer.mozilla.or"
-  },
-  "workday:coorstek": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T15:34:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://coorstek.wd1.myworkdayjobs.com/wday/cxs/coorstek/CoorsTekCareers/jobs'\nFor more information check: https://developer.mozilla.org/"
-  },
-  "workday:cornell": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T15:34:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cornell.wd1.myworkdayjobs.com/wday/cxs/cornell/cornellpositions/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
   "workday:cspire-telapex": {
     "consecutive_failures": 22,
@@ -2378,11 +2373,6 @@
     "consecutive_failures": 38,
     "last_attempt_at": "2026-10-30T12:53:20Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://milestone.wd1.myworkdayjobs.com/wday/cxs/milestone/Milestone_External/jobs'\nFor more information check: https://developer.mozi"
-  },
-  "workday:mines": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T15:34:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://mines.wd1.myworkdayjobs.com/wday/cxs/mines/mines_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:montrose": {
     "consecutive_failures": 40,
