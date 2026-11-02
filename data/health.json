@@ -1809,11 +1809,6 @@
     "last_attempt_at": "2026-11-02T13:03:11Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/praytell/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
-  "workable:premium-merchant-funding-3": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-02T07:19:24Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/premium-merchant-funding-3/jobs'\nFor more information check: https://developer.mozilla.org/en-"
-  },
   "workable:prevail": {
     "consecutive_failures": 9,
     "last_attempt_at": "2026-11-02T13:03:11Z",
@@ -2204,6 +2199,11 @@
     "last_attempt_at": "2026-11-02T13:03:11Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://donaldson.wd5.myworkdayjobs.com/wday/cxs/donaldson/donaldsoncareers/jobs'\nFor more information check: https://developer.mozill"
   },
+  "workday:everestre": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-02T15:59:59Z",
+    "last_error": "ReadTimeout: "
+  },
   "workday:evrazna": {
     "consecutive_failures": 41,
     "last_attempt_at": "2026-11-02T13:03:11Z",
@@ -2218,6 +2218,11 @@
     "consecutive_failures": 41,
     "last_attempt_at": "2026-11-02T13:03:11Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "workday:generac": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-02T15:59:59Z",
+    "last_error": "ReadTimeout: "
   },
   "workday:gensler": {
     "consecutive_failures": 6,
@@ -2434,6 +2439,11 @@
     "last_attempt_at": "2026-07-23T23:09:05Z",
     "last_error": "KeyError: 'wd'"
   },
+  "workday:southstatebank": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-02T15:59:59Z",
+    "last_error": "ReadTimeout: "
+  },
   "workday:ssmh": {
     "consecutive_failures": 23,
     "last_attempt_at": "2026-11-02T13:03:11Z",
@@ -2463,6 +2473,11 @@
     "consecutive_failures": 35,
     "last_attempt_at": "2026-11-02T13:03:11Z",
     "last_error": "KeyError: 'wd'"
+  },
+  "workday:tempus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-02T15:59:59Z",
+    "last_error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/Tempus_Careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
   "workday:usicinc": {
     "consecutive_failures": 14,
