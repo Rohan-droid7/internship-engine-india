@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T18:56:28Z",
+ "generated_at": "2026-11-02T21:43:49Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 11,
+ "count": 12,
  "jobs": [
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
@@ -25,6 +25,28 @@
     "Linux"
    ],
    "source": "workday"
+  },
+  {
+   "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
+   "company": "Acron Aviation",
+   "title": "Software Engineer Intern - India Site",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254",
+   "posted_at": "2026-10-29T17:56:36Z",
+   "first_seen_at": "2026-11-02T21:43:49Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [
+    "Python",
+    "C++"
+   ],
+   "source": "lever"
   },
   {
    "id": "greenhouse:hackerrank:8281055",
