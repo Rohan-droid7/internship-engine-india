@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-02T07:19:24Z",
+ "generated_at": "2026-11-02T10:02:11Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 13,
+ "count": 12,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer - Master's Degree",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "first_seen_at": "2026-11-02T10:02:11Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹45k–65k/mo",
+   "estimated_ctc": "18–24 LPA",
+   "pay_source": "AmbitionBox / Glassdoor",
+   "skills": [
+    "Python",
+    "Kubernetes",
+    "Linux"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:mmc:/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
    "company": "Marsh",
@@ -105,50 +128,6 @@
    "pay_source": "AmbitionBox / Glassdoor",
    "skills": [
     "Rust"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer - Bachelor's Degree",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹45k–65k/mo",
-   "estimated_ctc": "18–24 LPA",
-   "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [
-    "Python",
-    "Rust",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer - Bachelor's Degree",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹45k–65k/mo",
-   "estimated_ctc": "18–24 LPA",
-   "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [
-    "Python"
    ],
    "source": "workday"
   },
