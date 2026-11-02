@@ -1,28 +1,26 @@
 {
- "generated_at": "2026-11-02T03:57:54Z",
+ "generated_at": "2026-11-02T07:19:24Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
  "count": 13,
  "jobs": [
   {
-   "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
-   "company": "DNV",
-   "title": "Data Science Intern",
+   "id": "workday:mmc:/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
+   "company": "Marsh",
+   "title": "INTERN - AI",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Pune, India",
-   "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950",
-   "posted_at": "2026-10-30",
-   "first_seen_at": "2026-10-30T12:53:20Z",
+   "location": "Gurugram - Good Earth",
+   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "first_seen_at": "2026-11-02T07:19:24Z",
    "salary": null,
    "stipend": null,
    "estimated_stipend": null,
    "estimated_ctc": null,
    "pay_source": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "oracle"
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "greenhouse:hackerrank:8281055",

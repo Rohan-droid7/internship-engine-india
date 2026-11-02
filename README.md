@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**10 open roles · 9 new this week · 5,448 companies tracked · updated Nov 02, 2026 at 03:57 UTC**
+**10 open roles · 9 new this week · 5,448 companies tracked · updated Nov 02, 2026 at 07:19 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,7 +17,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| DNV | Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
+| Marsh | INTERN - AI ~ 🆕 | Data & ML/AI | B.Tech/BS | Gurugram - Good Earth | Nov 02, 2026 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789) |
 | HackerRank | AI Researcher Intern ~ | Data & ML/AI | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 28, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
 | Marvell | Software Intern ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Oct 26, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252) |
 | Marvell | Intern, Software Engineer ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
@@ -106,10 +106,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _65 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 20 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 21 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DNV | Data Science Intern | Summer 2027 | 2026-11-02 |
 | HackerRank | Software Development Engineer Intern | Summer 2027 | 2026-11-01 |
 | Wex | Software Development Trainee-1 | Summer 2027 | 2026-10-31 |
 | Wex | Software Development Trainee-2 | Summer 2027 | 2026-10-31 |
@@ -148,7 +149,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 97% fetch success · completed in 571.6s · median detection latency 740 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 97% fetch success · completed in 538.5s · median detection latency 712 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
