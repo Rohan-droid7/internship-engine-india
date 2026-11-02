@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T15:59:59Z",
+ "generated_at": "2026-11-02T18:56:28Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 12,
+ "count": 11,
  "jobs": [
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
@@ -24,25 +24,6 @@
     "Kubernetes",
     "Linux"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:mmc:/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
-   "company": "Marsh",
-   "title": "INTERN - AI",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Gurugram - Good Earth",
-   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
-   "posted_at": "2026-11-02T00:00:00Z",
-   "first_seen_at": "2026-11-02T07:19:24Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": [],
    "source": "workday"
   },
   {
