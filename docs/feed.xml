@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-03T07:04:19Z</updated>
+  <updated>2026-11-03T09:58:44Z</updated>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254</id>
     <title>Acron Aviation: Software Engineer Intern - India Site</title>
@@ -15,12 +15,12 @@
     <summary>Summer 2027 · Software · Bengaluru · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449</id>
-    <title>Marvell: Intern, Software Engineer - Master's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449"/>
-    <updated>2026-11-02T10:02:11Z</updated>
+    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
+    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
+    <updated>2026-10-30T09:49:58Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Python, Kubernetes, Linux</summary>
+    <summary>Summer 2027 · Software · Bangalore · ~₹30k–45k/mo (10–15 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
@@ -69,14 +69,6 @@
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:scopely:5448999008</id>
-    <title>Scopely: Intern - QA Engineer - Royal Lounge Casino</title>
-    <link href="https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008"/>
-    <updated>2026-10-13T10:03:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · IN - Bangalore, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/AI-Intern_2604445</id>
