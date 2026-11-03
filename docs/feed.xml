@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-03T12:59:05Z</updated>
+  <updated>2026-11-03T15:49:45Z</updated>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254</id>
     <title>Acron Aviation: Software Engineer Intern - India Site</title>
@@ -13,14 +13,6 @@
     <updated>2026-11-02T21:43:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bengaluru · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
-    <title>Philips: Apprentice Trainee (Software Developer Level 1)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732"/>
-    <updated>2026-10-30T09:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bangalore · ~₹30k–45k/mo (10–15 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
