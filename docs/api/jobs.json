@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T09:58:44Z",
+ "generated_at": "2026-11-03T12:59:05Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 11,
+ "count": 10,
  "jobs": [
   {
    "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
@@ -163,25 +163,6 @@
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
    "posted_at": "2026-10-22T00:00:00Z",
    "first_seen_at": "2026-10-27T11:51:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹45k–65k/mo",
-   "estimated_ctc": "18–24 LPA",
-   "pay_source": "AmbitionBox / Glassdoor",
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
-   "company": "Marvell",
-   "title": "AI Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "first_seen_at": "2026-09-30T16:43:51Z",
    "salary": null,
    "stipend": null,
    "estimated_stipend": "₹45k–65k/mo",

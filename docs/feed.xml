@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-03T09:58:44Z</updated>
+  <updated>2026-11-03T12:59:05Z</updated>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254</id>
     <title>Acron Aviation: Software Engineer Intern - India Site</title>
@@ -69,14 +69,6 @@
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Hyderabad · ~₹45k–65k/mo (18–24 LPA) · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/AI-Intern_2604445</id>
-    <title>Marvell: AI Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445"/>
-    <updated>2026-09-30T16:43:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bangalore · ~₹45k–65k/mo (18–24 LPA)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560</id>
