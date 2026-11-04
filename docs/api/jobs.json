@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-04T03:52:21Z",
+ "generated_at": "2026-11-04T07:06:50Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 9,
+ "count": 10,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
+   "posted_at": "2026-10-30",
+   "first_seen_at": "2026-10-30T09:49:58Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
    "company": "Acron Aviation",
