@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-04T12:59:52Z",
+ "generated_at": "2026-11-04T15:55:54Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 11,
+ "count": 12,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
+   "posted_at": "2026-11-04",
+   "first_seen_at": "2026-11-04T15:55:53Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040691-1",
    "company": "GE Aerospace",
