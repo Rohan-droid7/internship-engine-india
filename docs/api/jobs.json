@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-05T07:11:09Z",
+ "generated_at": "2026-11-05T10:02:20Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 11,
+ "count": 12,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161176",
    "company": "Honeywell",
    "title": "Intern Bachelors AI",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
-   "posted_at": "2026-11-04",
-   "first_seen_at": "2026-11-04T15:55:53Z",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176",
+   "posted_at": "2026-11-05",
+   "first_seen_at": "2026-11-05T10:02:20Z",
    "salary": null,
    "stipend": null,
    "estimated_stipend": "₹30k–45k/mo",
@@ -21,6 +21,32 @@
    "pay_source": "AmbitionBox",
    "skills": [],
    "source": "oracle"
+  },
+  {
+   "id": "workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916",
+   "company": "Revvity",
+   "title": "Intern - Software Developer",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916",
+   "posted_at": "2026-11-05T00:00:00Z",
+   "first_seen_at": "2026-11-05T10:02:20Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Django",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",

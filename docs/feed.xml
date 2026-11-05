@@ -5,14 +5,22 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-05T07:11:09Z</updated>
+  <updated>2026-11-05T10:02:20Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160494</id>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161176</id>
     <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494"/>
-    <updated>2026-11-04T15:55:53Z</updated>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176"/>
+    <updated>2026-11-05T10:02:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916</id>
+    <title>Revvity: Intern - Software Developer</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916"/>
+    <updated>2026-11-05T10:02:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mumbai · Python, SQL, Pandas, Django, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254</id>
