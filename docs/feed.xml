@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-05T15:59:36Z</updated>
+  <updated>2026-11-05T18:55:46Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161176</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -23,14 +23,6 @@
     <summary>Summer 2027 · Software · Mumbai · Python, SQL, Pandas, Django, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161061</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061"/>
-    <updated>2026-10-30T09:49:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
     <title>HackerRank: AI Researcher Intern</title>
     <link href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055"/>
@@ -45,14 +37,6 @@
     <updated>2026-10-27T11:51:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Intern_2604252</id>
-    <title>Marvell: Software Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252"/>
-    <updated>2026-10-27T11:51:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bangalore · ~₹45k–65k/mo (18–24 LPA) · Python, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
