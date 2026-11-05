@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-05T13:03:50Z</updated>
+  <updated>2026-11-05T15:59:36Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161176</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -21,14 +21,6 @@
     <updated>2026-11-05T10:02:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mumbai · Python, SQL, Pandas, Django, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254</id>
-    <title>Acron Aviation: Software Engineer Intern - India Site</title>
-    <link href="https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254"/>
-    <updated>2026-11-02T21:43:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bengaluru · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161061</id>
