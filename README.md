@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**7 open roles · 1 new this week · 5,448 companies tracked · updated Nov 07, 2026 at 09:45 UTC**
+**7 open roles · 1 new this week · 5,448 companies tracked · updated Nov 07, 2026 at 12:47 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,7 +17,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Revvity | Intern - Software Developer ~ 🆕 | Software | — | Mumbai | Nov 05, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916) |
+| Revvity | Intern - Software Developer ~ | Software | — | Mumbai | Nov 05, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916) |
 | HackerRank | AI Researcher Intern ~ | Data & ML/AI | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 28, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
 | Marvell | Intern, Software Engineer ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
 | Marvell | Software Engineer Intern - Master's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
@@ -158,7 +158,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 99% fetch success · completed in 302.2s · median detection latency 712 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 98% fetch success · completed in 418.8s · median detection latency 712 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
