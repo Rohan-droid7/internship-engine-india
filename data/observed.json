@@ -99,7 +99,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 294
+     "count": 295
     }
    }
   },
@@ -279,7 +279,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-01",
-     "count": 173
+     "count": 174
     }
    }
   },
@@ -441,7 +441,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-27",
-     "count": 684
+     "count": 686
     }
    }
   },
@@ -517,6 +517,15 @@
     }
    }
   },
+  "sigmoid": {
+   "name": "Sigmoid",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-11-10",
+     "count": 1
+    }
+   }
+  },
   "skydio": {
    "name": "Skydio",
    "cycles": {
@@ -558,7 +567,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 287
+     "count": 288
     }
    }
   },
@@ -648,7 +657,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 307
+     "count": 308
     }
    }
   },
@@ -716,5 +725,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T09:57:16Z"
+ "updated_at": "2026-11-10T12:59:39Z"
 }
