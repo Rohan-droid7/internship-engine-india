@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T18:48:11Z",
+ "generated_at": "2026-11-10T21:45:46Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 10,
+ "count": 11,
  "jobs": [
   {
    "id": "greenhouse:sigmoid:8927991002",
@@ -225,6 +225,25 @@
    "pay_source": "AmbitionBox",
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "rippling:sanas:93d0833e-b03b-4d28-8e32-bdaf572105f0",
+   "company": "Sanas",
+   "title": "ML DA Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, India",
+   "url": "https://ats.rippling.com/sanas/jobs/93d0833e-b03b-4d28-8e32-bdaf572105f0",
+   "posted_at": null,
+   "first_seen_at": "2026-11-10T21:45:46Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": null,
+   "source": "rippling"
   }
  ]
 }
