@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-10T07:03:05Z</updated>
+  <updated>2026-11-10T09:57:17Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161958</id>
+    <title>Honeywell: Intern Masters Data Science</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958"/>
+    <updated>2026-11-10T09:57:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916</id>
     <title>Revvity: Intern - Software Developer</title>
