@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-10T12:59:39Z</updated>
+  <updated>2026-11-10T15:49:34Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:sigmoid:8927991002</id>
     <title>Sigmoid: DE Intern + SDE Trainee - Off Campus Hiring 2026</title>
@@ -15,17 +15,17 @@
     <summary>Fall 2026 · Other · Bengaluru · Python, Java, C++, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
-    <title>Thales: Software Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867"/>
+    <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
+    <title>Thales: Embedded Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902"/>
     <updated>2026-11-10T12:59:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bangalore</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
-    <title>Thales: Embedded Software Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902"/>
+    <id>urn:intern-engine:workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
+    <title>Thales: Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867"/>
     <updated>2026-11-10T12:59:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bangalore</summary>
