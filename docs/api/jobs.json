@@ -1,30 +1,25 @@
 {
- "generated_at": "2026-11-11T07:07:01Z",
+ "generated_at": "2026-11-11T09:57:24Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
  "count": 16,
  "jobs": [
   {
-   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
-   "company": "GE Healthcare",
-   "title": "Software Intern",
+   "id": "workday:silabs:/job/Hyderabad/Intern---Software-Design_21084-1",
+   "company": "Silicon Laboratories",
+   "title": "Intern - Software Design",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "location": "Hyderabad",
+   "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---Software-Design_21084-1",
    "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T07:07:01Z",
+   "first_seen_at": "2026-11-11T09:57:24Z",
    "salary": null,
    "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "10–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Git"
-   ],
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": null,
    "source": "workday"
   },
   {
@@ -70,29 +65,28 @@
    "source": "oracle"
   },
   {
-   "id": "greenhouse:workato:8932861002",
-   "company": "Workato",
-   "title": "Intern, Software Engineering",
+   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
+   "company": "GE Healthcare",
+   "title": "Software Intern",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Software",
-   "location": "Chennai, India",
-   "url": "https://www.workato.com/careers?gh_jid=8932861002#open-roles",
-   "posted_at": "2026-11-11T00:59:52-05:00",
+   "location": "Bengaluru",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "posted_at": "2026-11-11T00:00:00Z",
    "first_seen_at": "2026-11-11T07:07:01Z",
    "salary": null,
    "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "10–14 LPA",
+   "pay_source": "AmbitionBox",
    "skills": [
     "Python",
-    "JavaScript",
-    "SQL",
-    "LLMs",
+    "Java",
+    "C#",
     "Git"
    ],
-   "source": "greenhouse"
+   "source": "workday"
   },
   {
    "id": "greenhouse:workato:8924723002",
