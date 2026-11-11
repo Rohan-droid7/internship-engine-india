@@ -99,7 +99,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 303
+     "count": 304
     }
    }
   },
@@ -279,7 +279,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-01",
-     "count": 182
+     "count": 183
     }
    }
   },
@@ -441,7 +441,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-27",
-     "count": 702
+     "count": 704
     }
    }
   },
@@ -522,7 +522,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-11-10",
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -567,7 +567,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 296
+     "count": 297
     }
    }
   },
@@ -657,7 +657,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 316
+     "count": 317
     }
    }
   },
@@ -725,5 +725,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T13:01:28Z"
+ "updated_at": "2026-11-11T15:51:20Z"
 }
