@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-11T09:57:24Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:silabs:/job/Hyderabad/Intern---Software-Design_21084-1</id>
-    <title>Silicon Laboratories: Intern - Software Design</title>
-    <link href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---Software-Design_21084-1"/>
-    <updated>2026-11-11T09:57:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hyderabad</summary>
-  </entry>
+  <updated>2026-11-11T13:01:29Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:workato:8924723002</id>
     <title>Workato: Intern, Automation Engineer</title>
@@ -53,14 +45,6 @@
     <updated>2026-11-10T21:45:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sigmoid:8927991002</id>
-    <title>Sigmoid: DE Intern + SDE Trainee - Off Campus Hiring 2026</title>
-    <link href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002"/>
-    <updated>2026-11-10T12:59:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Other · Bengaluru · Python, Java, C++, JavaScript, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>

@@ -1,27 +1,8 @@
 {
- "generated_at": "2026-11-11T09:57:24Z",
+ "generated_at": "2026-11-11T13:01:29Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 16,
+ "count": 14,
  "jobs": [
-  {
-   "id": "workday:silabs:/job/Hyderabad/Intern---Software-Design_21084-1",
-   "company": "Silicon Laboratories",
-   "title": "Intern - Software Design",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Intern---Software-Design_21084-1",
-   "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T09:57:24Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": null,
-   "source": "workday"
-  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161204",
    "company": "Honeywell",
@@ -108,34 +89,6 @@
     "Python",
     "AWS",
     "GCP"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:sigmoid:8927991002",
-   "company": "Sigmoid",
-   "title": "DE Intern + SDE Trainee - Off Campus Hiring 2026",
-   "season": "Fall 2026",
-   "season_inferred": false,
-   "category": "Other",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8927991002",
-   "posted_at": "2026-11-10T05:08:51-05:00",
-   "first_seen_at": "2026-11-10T12:59:39Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "SQL",
-    "Scala",
-    "LLMs",
-    "AWS"
    ],
    "source": "greenhouse"
   },
