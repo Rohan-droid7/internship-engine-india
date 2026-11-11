@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-11T15:51:20Z",
+ "generated_at": "2026-11-11T18:56:54Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 14,
+ "count": 13,
  "jobs": [
+  {
+   "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
+   "company": "Assurant",
+   "title": "AI & Data Science Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T18:56:54Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161204",
    "company": "Honeywell",
@@ -44,30 +63,6 @@
     "C++"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
-   "company": "GE Healthcare",
-   "title": "Software Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
-   "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T07:07:01Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "10–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:workato:8924723002",
@@ -155,27 +150,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:hackerrank:8281055",
-   "company": "HackerRank",
-   "title": "AI Researcher Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Onsite in Bangalore",
-   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
-   "posted_at": "2026-10-28T02:27:16-04:00",
-   "first_seen_at": "2026-10-28T06:45:55Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹40k–60k/mo",
-   "estimated_ctc": "16–22 LPA",
-   "pay_source": "AmbitionBox / LeetCode",
-   "skills": [
-    "PyTorch"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",

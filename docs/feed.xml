@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-11T15:51:20Z</updated>
+  <updated>2026-11-11T18:56:54Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
+    <title>Assurant: AI &amp; Data Science Intern</title>
+    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198"/>
+    <updated>2026-11-11T18:56:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:workato:8924723002</id>
     <title>Workato: Intern, Automation Engineer</title>
@@ -29,14 +37,6 @@
     <updated>2026-11-11T07:07:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
-    <title>GE Healthcare: Software Intern</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"/>
-    <updated>2026-11-11T07:07:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bengaluru · ~₹30k–45k/mo (10–14 LPA) · Python, Java, C#, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:sanas:93d0833e-b03b-4d28-8e32-bdaf572105f0</id>
@@ -69,14 +69,6 @@
     <updated>2026-11-05T10:02:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mumbai · Python, SQL, Pandas, Django, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:hackerrank:8281055</id>
-    <title>HackerRank: AI Researcher Intern</title>
-    <link href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055"/>
-    <updated>2026-10-28T06:45:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Onsite in Bangalore · ~₹40k–60k/mo (16–22 LPA) · PyTorch</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
