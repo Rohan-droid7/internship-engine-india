@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**14 open roles · 7 new this week · 5,448 companies tracked · updated Nov 12, 2026 at 07:10 UTC**
+**15 open roles · 7 new this week · 5,448 companies tracked · updated Nov 12, 2026 at 09:59 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027  (14 open)
+## Summer 2027  (15 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -27,12 +27,13 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 | Marvell | Intern, Software Engineer ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
 | Marvell | Software Engineer Intern - Master's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
 | Marvell | Software Validation Intern - Master's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870) |
+| Marvell | Intern, Software Engineer - Bachelor's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Hyderabad | Sep 24, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879) |
 | GE Aerospace | Data Science Intern ~ | Data & ML/AI | ~₹30k–45k/mo (10–14 LPA)<br>B.Tech/BS | Bengaluru | Sep 16, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) |
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | Sanas | ML DA Intern ~ 🆕 | Data & ML/AI | — | Bengaluru, India | — | [Apply](https://ats.rippling.com/sanas/jobs/93d0833e-b03b-4d28-8e32-bdaf572105f0) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (14 of 14)._
+_~ = the title doesn't state a year; bucketed here from its posting date (15 of 15)._
 
 ## What this is
 
@@ -163,7 +164,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 98% fetch success · completed in 393.6s · median detection latency 699 min · real posted dates on 92% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 99% fetch success · completed in 321.3s · median detection latency 699 min · real posted dates on 93% of open roles._
 
 ## Platforms Scraped
 
