@@ -195,8 +195,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mach?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "ashby:maple": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-12T18:52:26Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-12T21:47:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/maple?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:marathon": {
@@ -2334,6 +2334,11 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
+  "workday:flextronics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-12T21:47:03Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flextronics/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
+  },
   "workday:fragomen": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
@@ -2348,11 +2353,6 @@
     "consecutive_failures": 10,
     "last_attempt_at": "2026-11-12T15:59:13Z",
     "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://gensler.wd1.myworkdayjobs.com/wday/cxs/gensler/genslercareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
-  },
-  "workday:gilead": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-12T18:52:26Z",
-    "last_error": "ReadTimeout: "
   },
   "workday:goldmansachs": {
     "consecutive_failures": 38,
@@ -2388,11 +2388,6 @@
     "consecutive_failures": 38,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "KeyError: 'wd'"
-  },
-  "workday:juliusbaer": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-12T18:52:26Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:justfab": {
     "consecutive_failures": 28,
