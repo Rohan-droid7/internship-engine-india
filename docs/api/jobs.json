@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-12T09:59:30Z",
+ "generated_at": "2026-11-12T13:03:26Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
  "count": 15,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161319",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161528",
    "company": "Honeywell",
    "title": "Intern Bachelors AI",
    "season": "Summer 2027",
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161319",
-   "posted_at": "2026-11-11",
-   "first_seen_at": "2026-11-12T07:10:42Z",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528",
+   "posted_at": "2026-11-12",
+   "first_seen_at": "2026-11-12T13:03:26Z",
    "salary": null,
    "stipend": null,
    "estimated_stipend": "₹30k–45k/mo",
@@ -39,6 +39,30 @@
    "estimated_ctc": null,
    "pay_source": null,
    "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
+   "company": "GE Healthcare",
+   "title": "Software Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T07:07:01Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "10–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "Git"
+   ],
    "source": "workday"
   },
   {
@@ -302,25 +326,6 @@
    "pay_source": "AmbitionBox",
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "rippling:sanas:93d0833e-b03b-4d28-8e32-bdaf572105f0",
-   "company": "Sanas",
-   "title": "ML DA Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, India",
-   "url": "https://ats.rippling.com/sanas/jobs/93d0833e-b03b-4d28-8e32-bdaf572105f0",
-   "posted_at": null,
-   "first_seen_at": "2026-11-10T21:45:46Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": null,
-   "source": "rippling"
   }
  ]
 }

@@ -5,12 +5,12 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-12T09:59:30Z</updated>
+  <updated>2026-11-12T13:03:26Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161319</id>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161528</id>
     <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161319"/>
-    <updated>2026-11-12T07:10:42Z</updated>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528"/>
+    <updated>2026-11-12T13:03:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
   </entry>
@@ -31,12 +31,12 @@
     <summary>Summer 2027 · Software · Hyderabad, India · Python, AWS, GCP</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:rippling:sanas:93d0833e-b03b-4d28-8e32-bdaf572105f0</id>
-    <title>Sanas: ML DA Intern</title>
-    <link href="https://ats.rippling.com/sanas/jobs/93d0833e-b03b-4d28-8e32-bdaf572105f0"/>
-    <updated>2026-11-10T21:45:46Z</updated>
+    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
+    <title>GE Healthcare: Software Intern</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"/>
+    <updated>2026-11-11T07:07:01Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bengaluru, India</summary>
+    <summary>Summer 2027 · Software · Bengaluru · ~₹30k–45k/mo (10–14 LPA) · Python, Java, C#, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
