@@ -495,8 +495,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/alma/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:alphaawmnaearlycareers": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-12T15:59:13Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-14T18:39:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/alphaawmnaearlycareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "greenhouse:alteradigitalhealth": {
@@ -2075,8 +2075,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/syntiant/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:szns": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-12T15:59:13Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-14T18:39:45Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/szns/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:talentpluto": {
@@ -2085,8 +2085,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/talentpluto/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:tarte-inc": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-12T15:59:13Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-14T18:39:45Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tarte-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:tecsa": {
@@ -2289,21 +2289,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:abcsupply": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:abglobal": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:abinbev": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:academy": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2312,11 +2297,6 @@
   "workday:acehardware": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:acelero": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:acg": {
@@ -2339,29 +2319,9 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://aegion.wd501.myworkdayjobs.com/wday/cxs/aegion/Aegion_Careers/jobs'\nFor more information check: https://developer.mozilla.org/"
   },
-  "workday:aegistherapies": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:aep": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:aig": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:aksteel": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:alliantenergy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:allina": {
@@ -2374,29 +2334,14 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:amat": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:ameren": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:american": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:americanredcross": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:amfam": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:amgen": {
@@ -2409,44 +2354,14 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://amplify.wd1.myworkdayjobs.com/wday/cxs/amplify/Amplify_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
-  "workday:andersonsinc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:archildrens": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:aresmgmt": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:argonne": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:arkbluecross": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:armaninollp": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:arrow": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:ascensushr": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:aspendental": {
@@ -2459,34 +2374,14 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:assurant": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:asu": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:athenahealth": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:att": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:auroragov": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:autodesk": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:availity": {
@@ -2497,21 +2392,6 @@
   "workday:aviva": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:axalta": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:axiscapital": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:bah": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:baird": {
@@ -2539,16 +2419,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:bcbsri": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:bcbst": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:bdx": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2562,11 +2432,6 @@
   "workday:benefis": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:bestfriends": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:bilh": {
@@ -2584,19 +2449,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:blackstone": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:bloomberg": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:bnl": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:boarshead": {
@@ -2612,16 +2467,6 @@
   "workday:boydgroup": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:boystown": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:broadcom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:burlington": {
@@ -2664,11 +2509,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:caresource": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:carmax": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2689,11 +2529,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:ccf": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:cdk": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2704,20 +2539,10 @@
     "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:centific": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:cff": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cff.wd1.myworkdayjobs.com/wday/cxs/cff/explore-career-opportunities/jobs'\nFor more information check: https://developer.mozilla.o"
-  },
-  "workday:chamberlain": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:championx": {
     "consecutive_failures": 4,
@@ -2727,11 +2552,6 @@
   "workday:chenmed": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:chess": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:chipotle": {
@@ -2744,19 +2564,9 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/CHOPExternalCareers/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:chordenergy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:cigna": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:cinemark": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:circle": {
@@ -2804,11 +2614,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:collegeboard": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:collin": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2839,19 +2644,9 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/CondeCareers/jobs'\nFor more information check: https://developer.mozilla.or"
   },
-  "workday:cooperstandard": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:corebridgefinancial": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:costar": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:cox": {
@@ -2862,11 +2657,6 @@
   "workday:creationtech": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:crosscountrymortgage": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:csiweb": {
@@ -2899,16 +2689,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:daikinapplied": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:dairynet": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:danaher": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2939,11 +2719,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:denverhealth": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:dickssportinggoods": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -2953,11 +2728,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs'\nFor more information check: https://developer.mozilla.or"
-  },
-  "workday:directv": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:disney": {
     "consecutive_failures": 4,
@@ -2983,11 +2753,6 @@
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://donaldson.wd5.myworkdayjobs.com/wday/cxs/donaldson/donaldsoncareers/jobs'\nFor more information check: https://developer.mozill"
-  },
-  "workday:draftkings": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:draper": {
     "consecutive_failures": 4,
@@ -3017,11 +2782,6 @@
   "workday:dutchbros": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:dxctechnology": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:earlywarning": {
@@ -3054,11 +2814,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
-  "workday:eisneramper": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:elanco": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3074,11 +2829,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:embryriddle": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:emcins": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3087,11 +2837,6 @@
   "workday:encore": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:encova": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:enovis": {
@@ -3103,11 +2848,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ensemblehp.wd5.myworkdayjobs.com/wday/cxs/ensemblehp/ensemblehealthpartnerscareers/jobs'\nFor more information check: https://deve"
-  },
-  "workday:entegris": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:epicorsoftware": {
     "consecutive_failures": 4,
@@ -3144,30 +2884,10 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Etsy_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
-  "workday:evercommerce": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:evolent": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:evrazna": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workday:exactsciences": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:fanniemae": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:farmerfocus": {
     "consecutive_failures": 4,
@@ -3183,21 +2903,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ffive.wd5.myworkdayjobs.com/wday/cxs/ffive/f5jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
-  "workday:fhlbny": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:fhlbtopeka": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:fico": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:fifththird": {
     "consecutive_failures": 4,
@@ -3224,11 +2929,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:fox": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:fragomen": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
@@ -3238,11 +2938,6 @@
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
-  },
-  "workday:fullsteam": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:gapinc": {
     "consecutive_failures": 4,
@@ -3264,11 +2959,6 @@
     "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:genesys": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:genpt": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3284,11 +2974,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:gia": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:gilead": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3297,11 +2982,6 @@
   "workday:globalhr": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:gnw": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:goldmansachs": {
@@ -3317,11 +2997,6 @@
   "workday:granite": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:graybar": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:gsk": {
@@ -3352,16 +3027,6 @@
   "workday:hcsc": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:hdsupply": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:healthcare": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:healthresearch": {
@@ -3424,11 +3089,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:huntsman": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:huron": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3458,11 +3118,6 @@
     "consecutive_failures": 38,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "KeyError: 'wd'"
-  },
-  "workday:inmar": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:insmed": {
     "consecutive_failures": 44,
@@ -3549,11 +3204,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:kith": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:kla": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3579,11 +3229,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:largo": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:lifetime": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3598,11 +3243,6 @@
     "consecutive_failures": 33,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://lithia.wd5.myworkdayjobs.com/wday/cxs/lithia/LithiaCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
-  },
-  "workday:liveoakbancshares": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:liveramp": {
     "consecutive_failures": 15,
@@ -3619,24 +3259,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:lthc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:lvvwd": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:magellanhealth": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T12:42:39Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:maritz": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:marvell": {
@@ -3669,11 +3294,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:merceruniversity": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:meredith": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3682,11 +3302,6 @@
   "workday:mgmresorts": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:mhs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:micron": {
@@ -3709,21 +3324,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:mizuho": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:mjhlifesciences": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:mksinst": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:mmc": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -3732,11 +3332,6 @@
   "workday:modernatx": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:mohegan": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:momentive": {
@@ -3753,16 +3348,6 @@
     "consecutive_failures": 38,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "KeyError: 'wd'"
-  },
-  "workday:movadogroup": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:mpc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:msd": {
     "consecutive_failures": 4,
@@ -3794,11 +3379,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:nb": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:ncino": {
     "consecutive_failures": 11,
     "last_attempt_at": "2026-11-14T06:54:06Z",
@@ -3809,19 +3389,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:ncr": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:ncratleos": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:nebraskablue": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:netflix": {
@@ -3829,24 +3399,9 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://netflix.wd1.myworkdayjobs.com/wday/cxs/netflix/Netflix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
-  "workday:newbalance": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:newperkinelmer": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:newrez": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:newschool": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:ngc": {
@@ -3864,16 +3419,6 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://nio.wd3.myworkdayjobs.com/wday/cxs/nio/NIO_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
-  "workday:njm": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:nreca": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:nrel": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
@@ -3887,11 +3432,6 @@
   "workday:ntrs": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:ntst": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:nvidia": {
@@ -3932,11 +3472,6 @@
   "workday:okgov": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:oldrepublic": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:onedigital": {
@@ -4024,31 +3559,6 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "KeyError: 'wd'"
   },
-  "workday:pennant": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:pennmutual": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:pfizer": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:pimco": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:pjtpartners": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:plantemoran": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4069,16 +3579,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:primerica": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:primient": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:procasemanagement": {
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
@@ -4094,11 +3594,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:ptc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:pvh": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4109,19 +3604,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:r1rcm": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:racetrac": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:rakuten": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:redbulltechnology": {
@@ -4154,24 +3639,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:resolvetech": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:roberthalf": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:rochester": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:rockwellautomation": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:rsm": {
@@ -4187,11 +3657,6 @@
   "workday:ryder": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:saabusa": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:saintlukes": {
@@ -4234,11 +3699,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:semtech": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:sensata": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4254,11 +3714,6 @@
     "last_attempt_at": "2026-07-23T23:09:05Z",
     "last_error": "KeyError: 'wd'"
   },
-  "workday:sharecare": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:shawinc": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4267,21 +3722,6 @@
   "workday:signetjewelers": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:silabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:simon": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:simonsfoundation": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:sluhn": {
@@ -4304,11 +3744,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:sonoco": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:sonyglobal": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4322,11 +3757,6 @@
   "workday:spgi": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:sprinklr": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:ssmh": {
@@ -4354,16 +3784,6 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:stjude": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:strayer": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:stryker": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4372,11 +3792,6 @@
   "workday:suncor": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:swbc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:symbotic": {
@@ -4404,40 +3819,15 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:taxwell": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:tbkbank": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:tcbrands": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:tcs": {
     "consecutive_failures": 2,
     "last_attempt_at": "2026-07-23T23:21:05Z",
     "last_error": "KeyError: 'wd'"
   },
-  "workday:tdwilliamson": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:techmahindra": {
     "consecutive_failures": 38,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "KeyError: 'wd'"
-  },
-  "workday:tencent": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:thermofisher": {
     "consecutive_failures": 4,
@@ -4472,11 +3862,6 @@
   "workday:truist": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:trumed": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:trustage": {
@@ -4519,24 +3904,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:umd": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:umiami": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:unitytech": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:univision": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:unum": {
@@ -4549,19 +3919,9 @@
     "last_attempt_at": "2026-11-14T15:35:19Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
-  "workday:ur": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:usaa": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:usacs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:usbank": {
@@ -4597,16 +3957,6 @@
   "workday:vcuhealth": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:veralto": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:verawholehealth": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:vertexinc": {
@@ -4649,16 +3999,6 @@
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://vhr-unither.wd5.myworkdayjobs.com/wday/cxs/vhr-unither/External/jobs'\nFor more information check: https://developer.mozilla.or"
   },
-  "workday:vizient": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
-  "workday:vsg": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-  },
   "workday:vumc": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-14T15:35:19Z",
@@ -4673,11 +4013,6 @@
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-11T18:56:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
-  "workday:wawa": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:welocalize": {
     "consecutive_failures": 4,
