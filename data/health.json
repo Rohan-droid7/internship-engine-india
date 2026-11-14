@@ -20,8 +20,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/atomicsemi?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:beaconsoftware": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-11-11T09:57:24Z",
+    "consecutive_failures": 11,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
   },
   "ashby:candidate": {
@@ -125,8 +125,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/hiive?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:hilberts": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/hilberts?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:hippocratic": {
@@ -330,8 +330,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tandem?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:tavily": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-13T21:48:05Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tavily?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:tempo": {
@@ -1809,9 +1809,14 @@
     "last_attempt_at": "2026-07-23T23:21:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
+  "workable:mustard-systems": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mustard-systems/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
   "workable:navionsl": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-13T21:48:05Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/navionsl/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:new-flyer": {
@@ -1940,8 +1945,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rentvision/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workable:resource-innovations": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-13T21:48:05Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/resource-innovations/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:responsiveads-inc": {
@@ -2505,9 +2510,9 @@
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:allina": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://allina.wd5.myworkdayjobs.com/wday/cxs/allina/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:allisontransmission": {
     "consecutive_failures": 3,
@@ -2630,8 +2635,8 @@
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:angc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:ankura": {
@@ -3360,8 +3365,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://carmax.wd1.myworkdayjobs.com/wday/cxs/carmax/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workday:cart": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:cartech": {
@@ -3375,9 +3380,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://carters.wd1.myworkdayjobs.com/wday/cxs/carters/CartersCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workday:cat": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:cboe": {
     "consecutive_failures": 3,
@@ -3430,9 +3435,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://cenhud.wd5.myworkdayjobs.com/wday/cxs/cenhud/cenhud/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workday:centene": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/Centene_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:centerstone": {
     "consecutive_failures": 3,
@@ -3485,8 +3490,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/University/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workday:chewy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:chg": {
@@ -3685,9 +3690,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://comfortsystemsusa.wd1.myworkdayjobs.com/wday/cxs/comfortsystemsusa/Corpcareers/jobs'\nFor more information check: https://developer.mozilla.o"
   },
   "workday:commercebank": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://commercebank.wd1.myworkdayjobs.com/wday/cxs/commercebank/CommerceJobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:compassion": {
     "consecutive_failures": 3,
@@ -3770,9 +3775,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://countryfinancial.wd5.myworkdayjobs.com/wday/cxs/countryfinancial/COUNTRYCorporateExternal/jobs'\nFor more information check: https://develope"
   },
   "workday:cox": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:coxhealth": {
     "consecutive_failures": 3,
@@ -3815,9 +3820,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://csiweb.wd1.myworkdayjobs.com/wday/cxs/csiweb/CSI_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
   "workday:csl": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://csl.wd1.myworkdayjobs.com/wday/cxs/csl/CSL_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:cspire-telapex": {
     "consecutive_failures": 26,
@@ -3830,9 +3835,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://cswg.wd1.myworkdayjobs.com/wday/cxs/cswg/cs_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workday:cubic": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://cubic.wd1.myworkdayjobs.com/wday/cxs/cubic/cubic_USA_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:curriculumassociates": {
     "consecutive_failures": 3,
@@ -3950,8 +3955,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://deseretmanagement.wd1.myworkdayjobs.com/wday/cxs/deseretmanagement/BonSaltLake/jobs'\nFor more information check: https://developer.mozilla.o"
   },
   "workday:devonenergy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:dexcom": {
@@ -4545,9 +4550,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workday:generalmotors": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:genesys": {
     "consecutive_failures": 3,
@@ -5005,8 +5010,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:imeg": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:imf": {
@@ -5090,9 +5095,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://interdigital.wd5.myworkdayjobs.com/wday/cxs/interdigital/InterDigital_Intern/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:interpublic": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://interpublic.wd5.myworkdayjobs.com/wday/cxs/interpublic/omc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:interstate": {
     "consecutive_failures": 3,
@@ -5175,9 +5180,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://jainglobal.wd5.myworkdayjobs.com/wday/cxs/jainglobal/ExternalSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:jci": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:jcrew": {
     "consecutive_failures": 3,
@@ -5205,9 +5210,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://jeffersonhealth.wd5.myworkdayjobs.com/wday/cxs/jeffersonhealth/ThomasJeffersonExternal/jobs'\nFor more information check: https://developer.m"
   },
   "workday:jj": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:jll": {
     "consecutive_failures": 3,
@@ -5530,9 +5535,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://lytx.wd1.myworkdayjobs.com/wday/cxs/lytx/Lytx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521"
   },
   "workday:magellanhealth": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://magellanhealth.wd5.myworkdayjobs.com/wday/cxs/magellanhealth/magellan_health_careers/jobs'\nFor more information check: https://developer.moz"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:manh": {
     "consecutive_failures": 3,
@@ -5820,9 +5825,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521"
   },
   "workday:msd": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/searchjobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:msiexpress": {
     "consecutive_failures": 3,
@@ -6065,8 +6070,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://novanta.wd5.myworkdayjobs.com/wday/cxs/novanta/Novanta-Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workday:novartis": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "workday:nphosting": {
@@ -6110,9 +6115,9 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://nvent.wd5.myworkdayjobs.com/wday/cxs/nvent/nVent/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "workday:nvidia": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-14T03:47:09Z",
-    "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:nxp": {
     "consecutive_failures": 7,
@@ -6345,8 +6350,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://papajohns.wd1.myworkdayjobs.com/wday/cxs/papajohns/papajohnscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:parexel": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:parsons": {
@@ -6750,8 +6755,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
   "workday:rlicorp": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:roberthalf": {
@@ -6795,8 +6800,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://rrhs.wd5.myworkdayjobs.com/wday/cxs/rrhs/RRH/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521"
   },
   "workday:rrts": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:rsm": {
@@ -7060,8 +7065,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workday:snapchat": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:snapfinance": {
@@ -7285,8 +7290,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/tdsynnexcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workday:sysco": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:takeda": {
@@ -7650,8 +7655,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://uofl.wd1.myworkdayjobs.com/wday/cxs/uofl/UofLCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workday:upenn": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:ur": {
@@ -7725,8 +7730,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://vantagedc.wd1.myworkdayjobs.com/wday/cxs/vantagedc/Vantage/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "workday:vbgov": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:vca": {
@@ -7930,8 +7935,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://welocalize.wd1.myworkdayjobs.com/wday/cxs/welocalize/welocalize/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workday:westernalliancebank": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:westernunion": {
@@ -7950,8 +7955,8 @@
     "last_error": "HTTPStatusError: Server error '521 <none>' for url 'https://wexinc.wd5.myworkdayjobs.com/wday/cxs/wexinc/WEXInc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workday:wf": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-14T09:42:34Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-14T12:42:39Z",
     "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:wfscorp": {
