@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**10 open roles · 4 new this week · 5,448 companies tracked · updated Nov 16, 2026 at 01:12 UTC**
+**10 open roles · 4 new this week · 5,448 companies tracked · updated Nov 16, 2026 at 04:07 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,7 +17,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Assurant | AI & Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
+| Philips | Apprentice Software Developer Trainee ~ 🆕 | Software | ~₹30k–45k/mo (10–15 LPA)<br>B.Tech/BS | Bangalore | Nov 16, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Software-Developer-Trainee_590165) |
 | Workato | Intern, Automation Engineer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 10, 2026 | [Apply](https://www.workato.com/careers?gh_jid=8924723002#open-roles) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
 | Thales | Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
@@ -106,10 +106,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _65 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 30 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Assurant | AI & Data Science Intern | Summer 2027 | 2026-11-16 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-11-13 |
 | Marvell | Intern, Software Engineer - Bachelor's Degree | Summer 2027 | 2026-11-13 |
 | Marvell | Intern, Software Engineer | Summer 2027 | 2026-11-13 |
@@ -157,7 +158,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 97% fetch success · completed in 286.6s · median detection latency 712 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 95% fetch success · completed in 349.2s · median detection latency 712 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
