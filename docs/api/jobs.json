@@ -1,27 +1,8 @@
 {
- "generated_at": "2026-11-16T10:42:42Z",
+ "generated_at": "2026-11-16T15:02:36Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 10,
+ "count": 9,
  "jobs": [
-  {
-   "id": "workday:philips:/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
-   "company": "Philips",
-   "title": "Apprentice Software Developer Trainee",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Software-Developer-Trainee_590165",
-   "posted_at": "2026-11-16T00:00:00Z",
-   "first_seen_at": "2026-11-16T04:07:43Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "10–15 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [],
-   "source": "workday"
-  },
   {
    "id": "greenhouse:workato:8924723002",
    "company": "Workato",
