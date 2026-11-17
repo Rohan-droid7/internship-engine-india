@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-17T18:55:41Z",
+ "generated_at": "2026-11-17T21:51:09Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 10,
+ "count": 11,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162565",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Cyber Sec",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Other",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162565",
+   "posted_at": "2026-11-17",
+   "first_seen_at": "2026-11-17T21:51:09Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162362",
    "company": "Honeywell",
