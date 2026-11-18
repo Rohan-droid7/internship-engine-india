@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-18T15:57:56Z</updated>
+  <updated>2026-11-18T18:51:46Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161636</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636"/>
+    <updated>2026-11-18T18:51:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859</id>
     <title>Zebra Technologies: 2027 (6 Month) Internship - (Bengaluru) Software Engineering</title>
@@ -29,14 +37,6 @@
     <updated>2026-11-17T21:51:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Other · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162362</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162362"/>
-    <updated>2026-11-17T10:02:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:workato:8924723002</id>
