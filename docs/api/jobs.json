@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-18T09:57:56Z",
+ "generated_at": "2026-11-18T13:06:23Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 12,
+ "count": 13,
  "jobs": [
+  {
+   "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
+   "company": "Zebra Technologies",
+   "title": "2027 (6 Month) Internship - (Bengaluru) Software Engineering",
+   "season": "Summer 2027",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859",
+   "posted_at": "2026-11-18T00:00:00Z",
+   "first_seen_at": "2026-11-18T13:06:23Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": null,
+   "estimated_ctc": null,
+   "pay_source": null,
+   "skills": [
+    "Python",
+    "Java"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162526",
    "company": "Honeywell",

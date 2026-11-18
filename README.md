@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**12 open roles · 3 new this week · 5,448 companies tracked · updated Nov 18, 2026 at 09:57 UTC**
+**13 open roles · 4 new this week · 5,448 companies tracked · updated Nov 18, 2026 at 13:06 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027  (12 open)
+## Summer 2027  (13 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Zebra Technologies | 2027 (6 Month) Internship - (Bengaluru) Software Engineering 🆕 | Software | B.Tech/BS | Bengaluru, India | Nov 18, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859) |
 | Honeywell | Intern Masters AI ~ 🆕 | Data & ML/AI | ~₹30k–45k/mo (9–14 LPA)<br>M.Tech/MS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526) |
 | Honeywell | Intern Bachelors Cyber Sec ~ 🆕 | Other | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Bengaluru, Karnataka, India | Nov 17, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162565) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Bengaluru, Karnataka, India | Nov 17, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162362) |
@@ -30,7 +31,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (12 of 12)._
+_~ = the title doesn't state a year; bucketed here from its posting date (12 of 13)._
 
 ## What this is
 
@@ -105,7 +106,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 
-_65 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **30** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_66 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **31** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 25 roles taken down in the last 14 days</summary>
@@ -155,7 +156,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 97% fetch success · completed in 156.6s · median detection latency 712 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 77% fetch success · completed in 403.3s · median detection latency 712 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
