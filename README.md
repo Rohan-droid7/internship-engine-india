@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**11 open roles · 2 new this week · 5,448 companies tracked · updated Nov 19, 2026 at 10:03 UTC**
+**11 open roles · 2 new this week · 5,448 companies tracked · updated Nov 19, 2026 at 13:07 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,7 +17,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636) |
+| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Bengaluru, Karnataka, India | Nov 19, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637) |
 | Zebra Technologies | 2027 (6 Month) Internship - (Bengaluru) Software Engineering 🆕 | Software | B.Tech/BS | Bengaluru, India | Nov 18, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859) |
 | Workato | Intern, Automation Engineer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 10, 2026 | [Apply](https://www.workato.com/careers?gh_jid=8924723002#open-roles) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
@@ -107,10 +107,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _66 companies on the [full radar](https://rohan-droid7.github.io/internship-engine-india/#radar). **31** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-11-19 |
 | Honeywell | Intern Bachelors Cyber Sec | Summer 2027 | 2026-11-19 |
 | Honeywell | Intern Masters AI | Summer 2027 | 2026-11-18 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-11-18 |
@@ -155,7 +156,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 94% fetch success · completed in 322.3s · median detection latency 712 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 98% fetch success · completed in 195.7s · median detection latency 740 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
