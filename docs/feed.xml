@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-20T07:12:47Z</updated>
+  <updated>2026-11-20T09:57:33Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237</id>
+    <title>Zebra Technologies: 2027 (6 Month) Internship - (Bengaluru) Software Engineering</title>
+    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237"/>
+    <updated>2026-11-20T09:57:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bengaluru, India</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161637</id>
     <title>Honeywell: Intern Bachelors Software Eng</title>
@@ -13,14 +21,6 @@
     <updated>2026-11-19T13:07:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bengaluru, Karnataka, India · ~₹30k–45k/mo (9–14 LPA) · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859</id>
-    <title>Zebra Technologies: 2027 (6 Month) Internship - (Bengaluru) Software Engineering</title>
-    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103859"/>
-    <updated>2026-11-18T13:06:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bengaluru, India · Python, Java</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:workato:8924723002</id>
