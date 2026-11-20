@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://rohan-droid7.github.io/internship-engine-india/feed.xml" rel="self"/>
   <link href="https://github.com/Rohan-droid7/internship-engine-india"/>
-  <updated>2026-11-20T15:59:44Z</updated>
+  <updated>2026-11-20T18:55:38Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162870</id>
+    <title>Honeywell: Intern Masters Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870"/>
+    <updated>2026-11-20T18:55:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Pune, Maharashtra, India · ~₹30k–45k/mo (9–14 LPA) · C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237</id>
     <title>Zebra Technologies: 2027 (6 Month) Internship - (Bengaluru) Software Engineering</title>

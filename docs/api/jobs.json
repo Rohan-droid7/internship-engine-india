@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-11-20T15:59:44Z",
+ "generated_at": "2026-11-20T18:55:38Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 10,
+ "count": 11,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162870",
+   "company": "Honeywell",
+   "title": "Intern Masters Embedded Eng",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870",
+   "posted_at": "2026-11-20",
+   "first_seen_at": "2026-11-20T18:55:38Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹30k–45k/mo",
+   "estimated_ctc": "9–14 LPA",
+   "pay_source": "AmbitionBox",
+   "skills": [
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
    "company": "Zebra Technologies",
