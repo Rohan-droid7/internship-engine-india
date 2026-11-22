@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**11 open roles · 2 new this week · 5,448 companies tracked · updated Nov 22, 2026 at 18:41 UTC**
+**11 open roles · 2 new this week · 5,448 companies tracked · updated Nov 22, 2026 at 21:39 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,7 +17,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Honeywell | Intern Masters Embedded Eng ~ 🆕 | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Pune, Maharashtra, India | Nov 20, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870) |
+| Honeywell | Intern Masters Embedded Eng ~ | Software | ~₹30k–45k/mo (9–14 LPA)<br>B.Tech/BS | Pune, Maharashtra, India | Nov 20, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870) |
 | Zebra Technologies | 2027 (6 Month) Internship - (Bengaluru) Software Engineering | Software | — | Bengaluru, India | Nov 20, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237) |
 | Workato | Intern, Automation Engineer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 10, 2026 | [Apply](https://www.workato.com/careers?gh_jid=8924723002#open-roles) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 98% fetch success · completed in 64.0s · median detection latency 769 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 98% fetch success · completed in 146.6s · median detection latency 769 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
