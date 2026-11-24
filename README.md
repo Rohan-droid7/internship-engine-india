@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**9 open roles · 1 new this week · 5,448 companies tracked · updated Nov 24, 2026 at 03:57 UTC**
+**10 open roles · 2 new this week · 5,448 companies tracked · updated Nov 24, 2026 at 07:07 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027  (9 open)
+## Summer 2027  (10 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Data Scientist I 6M Intern ~ 🆕 | Data & ML/AI | ~₹80k–1.1L/mo (28–44 LPA)<br>PhD | Chennai, Tamil Nadu, India | Nov 24, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) |
 | Zebra Technologies | 2027 (6 Month) Internship - (Bengaluru) Software Engineering | Software | — | Bengaluru, India | Nov 20, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
 | Thales | Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
@@ -27,7 +28,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (8 of 9)._
+_~ = the title doesn't state a year; bucketed here from its posting date (9 of 10)._
 
 ## What this is
 
@@ -152,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 88% fetch success · completed in 154.3s · median detection latency 771 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 97% fetch success · completed in 131.4s · median detection latency 769 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 

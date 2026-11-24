@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-24T03:57:05Z",
+ "generated_at": "2026-11-24T07:07:38Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 9,
+ "count": 10,
  "jobs": [
+  {
+   "id": "amazon:amazon:10443572",
+   "company": "Amazon",
+   "title": "Data Scientist I 6M Intern",
+   "season": "Summer 2027",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Chennai, Tamil Nadu, India",
+   "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern",
+   "posted_at": "2026-11-24T00:00:00Z",
+   "first_seen_at": "2026-11-24T07:07:38Z",
+   "salary": null,
+   "stipend": null,
+   "estimated_stipend": "₹80k–1.1L/mo",
+   "estimated_ctc": "28–44 LPA",
+   "pay_source": "Levels.fyi / LeetCode",
+   "skills": [
+    "Python",
+    "SQL",
+    "MATLAB",
+    "PyTorch",
+    "TensorFlow",
+    "AWS",
+    "Spark",
+    "Hadoop"
+   ],
+   "source": "amazon"
+  },
   {
    "id": "workday:zebra:/job/Bengaluru-India/XMLNAME-2027--6-Month--Internship----Bengaluru--Software-Engineering_JR103237",
    "company": "Zebra Technologies",
