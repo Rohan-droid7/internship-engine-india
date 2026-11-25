@@ -279,7 +279,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-01",
-     "count": 291
+     "count": 292
     }
    }
   },
@@ -522,7 +522,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-11-10",
-     "count": 118
+     "count": 119
     }
    }
   },
@@ -720,7 +720,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-11-18",
-     "count": 95
+     "count": 97
     }
    }
   },
@@ -734,5 +734,5 @@
    }
   }
  },
- "updated_at": "2026-11-25T07:11:01Z"
+ "updated_at": "2026-11-25T10:07:45Z"
 }
