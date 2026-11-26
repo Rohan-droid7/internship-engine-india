@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T07:35:16Z",
+ "generated_at": "2026-11-26T18:56:29Z",
  "source": "https://github.com/Rohan-droid7/internship-engine-india",
- "count": 15,
+ "count": 13,
  "jobs": [
   {
    "id": "greenhouse:commerceiq:8215092003",
@@ -23,34 +23,6 @@
     "Python",
     "SQL",
     "Hadoop"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:commerceiq:8217480003",
-   "company": "CommerceIQ",
-   "title": "SDE Intern",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Other",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8217480003",
-   "posted_at": "2026-11-26T00:47:26-05:00",
-   "first_seen_at": "2026-11-26T07:35:16Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": null,
-   "estimated_ctc": null,
-   "pay_source": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "SQL",
-    "LLMs",
-    "React",
-    "Node.js"
    ],
    "source": "greenhouse"
   },
@@ -99,29 +71,6 @@
    "estimated_ctc": "9–14 LPA",
    "pay_source": "AmbitionBox",
    "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161639",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "Summer 2027",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639",
-   "posted_at": "2026-11-25",
-   "first_seen_at": "2026-11-25T10:07:45Z",
-   "salary": null,
-   "stipend": null,
-   "estimated_stipend": "₹30k–45k/mo",
-   "estimated_ctc": "9–14 LPA",
-   "pay_source": "AmbitionBox",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
    "source": "oracle"
   },
   {
