@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**11 open roles · 2 new this week · 5,448 companies tracked · updated Nov 27, 2026 at 16:25 UTC**
+**10 open roles · 2 new this week · 5,448 companies tracked · updated Nov 28, 2026 at 01:16 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027  (11 open)
+## Summer 2027  (10 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -23,13 +23,12 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
 | Thales | Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
 | Revvity | Intern - Software Developer ~ | Software | — | Mumbai | Nov 05, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916) |
-| HackerRank | AI Researcher Intern ~ | Data & ML/AI | ~₹40k–60k/mo (16–22 LPA)<br>B.Tech/BS | Onsite in Bangalore | Oct 28, 2026 | [Apply](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) |
 | Marvell | Software Engineer Intern - Master's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
 | Marvell | Software Validation Intern - Master's Degree ~ | Software | ~₹45k–65k/mo (18–24 LPA)<br>B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870) |
 | Member Solutions | Cybersecurity GRC Intern ~ | Other | B.Tech/BS | India (Jonas Collections and Recovery I… | Dec 22, 2025 | [Apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560) |
 | Valeo | Intern - AI ~ | Data & ML/AI | ~₹20k–30k/mo (6–9 LPA) | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (10 of 11)._
+_~ = the title doesn't state a year; bucketed here from its posting date (9 of 10)._
 
 ## What this is
 
@@ -97,9 +96,9 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~4d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~4d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~4d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~3d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~3d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~3d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
@@ -111,6 +110,7 @@ _66 companies on the [full radar](https://rohan-droid7.github.io/internship-engi
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| HackerRank | AI Researcher Intern | Summer 2027 | 2026-11-28 |
 | CommerceIQ | Data Scientist - Intern | Summer 2027 | 2026-11-27 |
 | CommerceIQ | SDE - Intern ( UI ) | Summer 2027 | 2026-11-27 |
 | Honeywell | Intern Bachelors Cyber Sec | Summer 2027 | 2026-11-27 |
@@ -128,7 +128,6 @@ _66 companies on the [full radar](https://rohan-droid7.github.io/internship-engi
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-11-17 |
 | Philips | Apprentice Software Developer Trainee | Summer 2027 | 2026-11-16 |
 | Assurant | AI & Data Science Intern | Summer 2027 | 2026-11-16 |
-| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-11-13 |
 
 </details>
 
@@ -147,7 +146,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 18 ATS platforms · 86% fetch success · completed in 203.3s · median detection latency 712 min · real posted dates on 100% of open roles._
+_Engine (last run): 5,448 companies across 18 ATS platforms · 95% fetch success · completed in 99.3s · median detection latency 712 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
